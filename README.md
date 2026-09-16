@@ -213,3 +213,6 @@ Burger is provided as a **full free version** with all features and updates incl
 ---
 
 Ready to take your culinary skills to the next level? **Download Burger now and become the best burger restaurant manager today!**
+
+---
+**Last updated:** 2026-09-16 14:00:24 UTC
